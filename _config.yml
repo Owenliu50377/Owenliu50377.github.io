@@ -27,6 +27,7 @@ author:
   bio              : "A master's student with a passion for creating innovative solutions and a strong background in machine learning, natural language processing and data analysis"
   location         : "Los Angeles, California"
   employer         : "University of Southern California"
+  school : "Chi"
   uri              : # URL
   email            : "tianzel@usc.edu" 
 
@@ -43,7 +44,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "owenliu50377"
-  kaggle           : "USC_OwenSPDS_2023"
+  kaggle           : "uscowenspds2023"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -56,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "owenliu"
+  linkedin         : "owen-liu-956036289"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
