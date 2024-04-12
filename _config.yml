@@ -26,8 +26,9 @@ author:
   pronouns         : "He/Him"  
   bio              : "A master's student with a passion for creating innovative solutions and a strong background in machine learning, natural language processing and data analysis"
   location         : "Los Angeles, California"
-  employer         : "University of Southern California"
-  school : "Chi"
+  employer         : 
+    -"University of Southern California"
+    -"Chinese University of Hong Kong Shenzhen"
   uri              : # URL
   email            : "tianzel@usc.edu" 
 
