@@ -12,7 +12,7 @@ title                    : "Owen's Homepage"
 title_separator          : "-"
 name                     : &name "Owen Liu"
 description              : &description "Hello"
-url                      : https://owenliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Owenliu50377/owenliu.github.io"
 
