@@ -2,6 +2,10 @@
 main:
   - title: "CV-ENG"
     url: /files/Resume-Complete Version.pdf
+
+
+  - title: "CV-CN"
+    url: /files/Resume_CN.pdf
     
   - title: "Publications"
     url: /publications/
