@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 🏫 I am a first-year student graduate student (Spatial Data Science) at the University of Southern California.
+
 🏫 I graduated (Data Science and Big Data Technology) from the Chinese University of Hong Kong Shenzhen.
 
 📚 My recent research focuses on Natural Language Processing Techniques, including applying advanced Transformer models in different fields. Now I am working on applying StockFormer in predicting stock prices with several factors. This works as my DSCI510 Final Project.
@@ -15,7 +16,10 @@ redirect_from:
 📚 I am currently working as a research assistant in the Department of Economics at USC. And also I am open to seeking an internship in the Artificial Intelligence field.
 
 
+# Selected Experience
 
+## ⛵Research Assistant at Shenzhen Research Institution of Big Data
+I used to be a research assistant concentrating on Operation Research Applications including 
 
 
 
