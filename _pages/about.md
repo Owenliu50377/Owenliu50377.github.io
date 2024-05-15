@@ -11,9 +11,10 @@ redirect_from:
 
 🏫 I graduated (Data Science and Big Data Technology) from the Chinese University of Hong Kong Shenzhen in 2023.
 
-📚 Now I am working towards the Mixture Neural Network for my RA position at USC.
-I am also participating in the stock pitch competition of financial engineering by the UBS by the end of May. My lane is about building models (e.g., AI models) that can accurately and efficiently predict the risk exposure of Range Accrual Note based on the characteristics of the simulated product, historical risk factor data, and the market environment provided.
-Moreover, I am also a member of the AIGC contest of Deloitte, to explore how AIGC will be applied in the financial industry such as insurance and bank.
+📚 My Recent Activities
++ I am working towards the Mixture Neural Network for my RA position at USC.
++ I am also participating in the stock pitch competition of financial engineering by the UBS by the end of May. My lane is about building models (e.g., AI models) that can accurately and efficiently predict the risk exposure of Range Accrual Note based on the characteristics of the simulated product, historical risk factor data, and the market environment provided.
++ I am also a member of the AIGC contest of Deloitte, to explore how AIGC will be applied in the financial industry such as insurance and bank.
 
 📚 I am currently working as a research assistant in the Department of Economics at USC. And also I am open to seeking an internship in the Artificial Intelligence field.
 
