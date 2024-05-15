@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-🏫 I am a first-year student graduate student (Spatial Data Science) at the University of Southern California.
+🏫 I am a second-year student graduate student (Spatial Data Science) at the University of Southern California.
 
-🏫 I graduated (Data Science and Big Data Technology) from the Chinese University of Hong Kong Shenzhen.
+🏫 I graduated (Data Science and Big Data Technology) from the Chinese University of Hong Kong Shenzhen in 2023.
 
-📚 My recent research focuses on Natural Language Processing Techniques, including applying advanced Transformer models in different fields. Now I am working on applying StockFormer in predicting stock prices with several factors. This works as my DSCI510 Final Project.
+📚 Now I am working towards the Mixture Neural Network for my RA position at USC.
+I am also participating in the stock pitch competition of financial engineering by the UBS by the end of May. My lane is about building models (e.g., AI models) that can accurately and efficiently predict the risk exposure of Range Accrual Note based on the characteristics of the simulated product, historical risk factor data, and the market environment provided.
+Moreover, I am also a member of the AIGC contest of Deloitte, to explore how AIGC will be applied in the financial industry such as insurance and bank.
 
 📚 I am currently working as a research assistant in the Department of Economics at USC. And also I am open to seeking an internship in the Artificial Intelligence field.
 
@@ -19,7 +21,12 @@ redirect_from:
 # Selected Experience
 
 ## ⛵Research Assistant at Shenzhen Research Institution of Big Data
-I used to be a research assistant concentrating on Operation Research Applications including 
+I used to be a research assistant concentrating on Operation Research Applications.
++ Developed enhanced algorithms to solve spatial operational problems and provided distribution strategies.
++ Implemented a variable neighborhood search sim-heuristic algorithm to solve the multi-period inventory routing problem under stochastic spatial distribution and demands in 30 minutes on small scale
++ Constructed a distributed decision model based on the stochastic demands, fulfilling regular deliveries on the service level and tracking inventory with a preset standard
++ Made electricity grid distribution strategy based on the spatial electricity data of the specific region
++ Implemented a branch and bound algorithm based on the Hungarian method in combination with a simplex method for complex networks to minimize the costs of a project to build a decision model for the project managers, decreasing the time cost by around 15%
 
 
 
