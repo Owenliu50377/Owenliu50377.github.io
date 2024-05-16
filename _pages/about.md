@@ -21,7 +21,6 @@ redirect_from:
 
 📚 I am currently working as a research assistant in the Department of Economics at USC. And also I am open to seeking an internship in the Artificial Intelligence field.
 
-
 # Selected Experience
 
 ## 📕 Research Assistant at University of Southern California (2024.4 - Present)
@@ -57,3 +56,6 @@ I worked in Bytedance as Database Engineer Internship in ZZNode in 2022.
 + Conducted the Chi-Square test to test the independence among attributes
 + Provided Python scripts to process the business queries automatically with the MySQL to Python connector
 
+# Projects
+
+## Stock Prediction Based on ARIMA, XGboosting and Prophet (2024.05)
