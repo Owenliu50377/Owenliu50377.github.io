@@ -33,6 +33,7 @@ I am now working in the Department of Economics at USC
 I used to be a research assistant concentrating on Operation Research Applications.
 
 + Developed enhanced algorithms to solve spatial operational problems and provided distribution strategies.
++ Utilized the RNN model to provide strategies for a certain FMCG company to price their merchandises next seasons. 
 + Implemented a variable neighborhood search sim-heuristic algorithm to solve the multi-period inventory routing problem under stochastic spatial distribution and demands in 30 minutes on small scale
 + Constructed a distributed decision model based on the stochastic demands, fulfilling regular deliveries on the service level and tracking inventory with a preset standard
 + Made electricity grid distribution strategy based on the spatial electricity data of the specific region
@@ -41,7 +42,6 @@ I used to be a research assistant concentrating on Operation Research Applicatio
 ## 💻 AI Engineer Intern at ByteDance Ltd. (2022.05 ~ 2022.06)
 I worked in Bytedance as AI Engineer Internship in Beijing in 2022 and developed and refined AI algorithms and applied them in real-world situations
 
-+ Built an Intelligent Agent for investment research based on LangChain, RAG and LLM to accomplish tasks such as parsing and understanding fund announcement data, answering user questions by multi-modality.
 + Implemented handwritten digits recognition with TensorFlow, the Sequential model in Keras, and a 2-D convolutional neural network (CNN)
 + Identified illegal messages on given websites with a Naive Bayes classifier achieving around 75% accuracy
 + Performed exploratory data analysis of UCI’s Horse Colic Data Set, and predicted the survival or death of horses based on their medical conditions with Adaboost, achieving high accuracy
@@ -56,6 +56,16 @@ I worked in Bytedance as Database Engineer Internship in ZZNode in 2022.
 + Conducted the Chi-Square test to test the independence among attributes
 + Provided Python scripts to process the business queries automatically with the MySQL to Python connector
 
+
+## 💻 Data Analyst Intern at Whale Cloud Technology (2021.06 ~ 2021.09)
+
+
+
 # Projects
 
-## Stock Prediction Based on ARIMA, XGboosting and Prophet (2024.05)
+
+## China Merchandise Bank Fintech Contest (Rank 140/2000)
+
++ Built an Intelligent Agent for investment research based on LangChain, RAG and LLM （OpenAI Embeddings） to accomplish tasks such as parsing and understanding fund announcement data from separate report files. This Agent is able to answer the users' question muiltimodelly such as plot figures.
+
+## Stock Price Prediction Based on ARIMA, XGboosting and Prophet (2024.05)
