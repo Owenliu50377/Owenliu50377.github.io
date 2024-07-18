@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "CV-ENG"
-    url: /files/Resume-Complete Version.pdf
+    url: /files/Resume-EN.pdf
 
 
   - title: "CV-CN"
     url: /files/Resume_CN.pdf
     
-  - title: "Recent Readings"
+  - title: "Projects"
     url: /publications/
 
   # - title: "Talks"

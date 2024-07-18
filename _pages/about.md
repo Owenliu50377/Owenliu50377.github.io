@@ -15,13 +15,16 @@ redirect_from:
 
 **Key words: Machine learning, Financial Engineering, AI Generated Content**
 
-+ I am working towards the Mixture Neural Network for my RA position at USC.
-+ I am also participating in the stock pitch competition of financial engineering by the UBS by the end of May. My lane is about building models (e.g., AI models) that can accurately and efficiently predict the risk exposure of Range Accrual Note based on the characteristics of the simulated product, historical risk factor data, and the market environment provided.
-+ I am also a member of the AIGC contest of Deloitte, to explore how AIGC will be applied in the financial industry such as insurance and bank.
 
 📚 I am currently working as a research assistant in the Department of Economics at USC. And also I am open to internships in the Artificial Intelligence field.
 
+
+📚 At the same time, I am also wokring in China Mobile International Research Institute as a Gernerative AI Engineer. The work comprising building long text generation model similar to **STORM** and building Text2SQL Agent similar to **Vanna**.
+
 # Selected Experience
+
+## 💻 Generative AI Engineer at China Mobile International Research Institute (2024.06 - Present)
+
 
 ## 📕 Research Assistant at University of Southern California (2024.4 - Present)
 I am now working in the Department of Economics at USC
@@ -57,16 +60,18 @@ I worked in Bytedance as Database Engineer Internship in ZZNode in 2022.
 + Provided Python scripts to process the business queries automatically with the MySQL to Python connector
 
 
-## 💻 Data Analyst Intern at Whale Cloud Technology (2021.06 ~ 2021.09)
+# Recent Projects
 
 
+## NVIDIA 10th Sky Hackathon Contest (Rank 11/50)
 
-# Projects
-
-## UBS Financial Engineering Contest (On-Going)
+"Building an Intelligent Conversational Robot Based on RAG Technology Innovation". I primarily used RAG (Retrieval-Augmented Generation) technology and combined it with NVIDIA's SDK tools to design and build conversational bots in the investment report analysis field. This model achieved the goal of quick responding multi-modally and accurate extraction.
 
 ## China Merchandise Bank Fintech Contest (Rank 140/2000)
 
-+ Built an Intelligent Agent for investment research based on LangChain, RAG and LLM （OpenAI Embeddings） to accomplish tasks such as parsing and understanding fund announcement data from separate report files. This Agent is able to answer the users' question muiltimodelly such as plot figures.
+Built an Intelligent Agent for investment research based on LangChain, RAG and LLM （OpenAI Embeddings） to accomplish tasks such as parsing and understanding fund announcement data from separate report files. This Agent is able to answer the users' question muiltimodelly such as plot figures.
 
-## Stock Price Prediction Based on ARIMA, XGboosting and Prophet (2024.05)
+## UBS Financial Engineering Contest
+
+My lane is about building models (e.g., AI models) that can accurately and efficiently predict the risk exposure of Range Accrual Note based on the characteristics of the simulated product, historical risk factor data, and the market environment provided.
+
