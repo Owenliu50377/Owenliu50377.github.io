@@ -13,23 +13,27 @@ redirect_from:
 
 # Current Activities
 
-**Key words: Machine learning, Financial Engineering, AI Generated Content**
+**Key words: Machine learning, Generative AI Engineering (RAG; Agent Workflow), Financial Engineering**
 
 
-📚 I am currently working as a research assistant in the Department of Economics at USC. And also I am open to internships in the Artificial Intelligence field.
-
+📚 I am currently working as a research assistant in the Department of Economics at USC. And also I am open to jobs in the Artificial Intelligence field.
 
 📚 At the same time, I am also wokring in China Mobile International Research Institute as a Gernerative AI Engineer. The work comprising building long text generation model similar to **STORM** and building Text2SQL Agent similar to **Vanna**.
 
 # Selected Experience
 
-## 💻 Generative AI Engineer at China Mobile International Research Institute (2024.06 - Present)
-
-
 ## 📕 Research Assistant at University of Southern California (2024.4 - Present)
 I am now working in the Department of Economics at USC
 
-+ Applied multiple machine/deep learning algorithms including XGboosting, Attention (Transformers), NNM based on Pytroch etc. to predict travel time based on travel mode and distances.
++ Applied multiple machine/deep learning algorithms including XGboosting, Attention (Transformers), Mixtured Neural Network etc. to predict travel time based on travel mode and distances and reduced the MSE to 200 on 4M data.
+
+## 💻 Generative AI Engineer at China Mobile International Research Institute (2024.06 - 2024.08)
+I worked as Generative AI Engineer at CMRI, responsible for developing AIGC framework based on RAG and Agent.
+
++ Built long-text generation model and generated the latest industry analysis report based on STORM
++ Implemented Text2SQL Agent based on VannaAI, which used natural language to query databases
++ Implemented Multi-Agent WorkFlow based on MetaGPT to achieve the natural language programming
+
 
 ## 📕 Research Assistant at Shenzhen Research Institution of Big Data (2022.11 ~ 2023.05)
 
