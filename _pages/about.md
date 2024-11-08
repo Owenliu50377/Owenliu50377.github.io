@@ -18,8 +18,6 @@ redirect_from:
 
 📚 I am currently working as a research assistant in the Department of Economics at USC. And also I am open to jobs in the Artificial Intelligence field.
 
-📚 At the same time, I am also wokring in China Mobile International Research Institute as a Gernerative AI Engineer. The work comprising building long text generation model similar to **STORM** and building Text2SQL Agent similar to **Vanna**.
-
 # Selected Experience
 
 ## 📕 Research Assistant at University of Southern California (2024.4 - Present)
@@ -29,10 +27,12 @@ I am now working in the Department of Economics at USC
 
 ## 💻 Generative AI Engineer at China Mobile International Research Institute (2024.06 - 2024.08)
 I worked as Generative AI Engineer at CMRI, responsible for developing AIGC framework based on RAG and Agent.
-
-+ Built long-text generation model and generated the latest industry analysis report based on STORM
-+ Implemented Text2SQL Agent based on VannaAI, which used natural language to query databases
-+ Implemented Multi-Agent WorkFlow based on MetaGPT to achieve the natural language programming
++ Built Multi-Agent conversational framework to generate industrial reports via searching documents, writing sections, normalizing articles
++ Implemented Text2SQL Agent based on VannaAI and TAG, which used natural language to generate
+error-free SQL commands to retrieve databases
++ Implemented Multi-Agent Collaborative WorkFlow to automate a programming lifecycle including
+identifying work division, pre-writing the codes, executing and finally debugging if necessary to achieve
+the natural language programming
 
 
 ## 📕 Research Assistant at Shenzhen Research Institution of Big Data (2022.11 ~ 2023.05)
